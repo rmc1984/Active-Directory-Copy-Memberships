@@ -1,0 +1,28 @@
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\bin\Debug\CopyMemberships.exe.config
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\bin\Debug\CopyMemberships.exe
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\bin\Debug\CopyMemberships.pdb
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.csprojResolveAssemblyReference.cache
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\MainWindow.g.cs
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\App.g.cs
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships_MarkupCompile.cache
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships_MarkupCompile.lref
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\MainWindow.baml
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.g.resources
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.Properties.Resources.resources
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.csproj.GenerateResource.Cache
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.exe
+c:\users\rclark\documents\visual studio 2015\Projects\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.pdb
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\bin\Debug\CopyMemberships.exe.config
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.exe
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.pdb
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\bin\Debug\CopyMemberships.exe
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\bin\Debug\CopyMemberships.pdb
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.csprojResolveAssemblyReference.cache
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\MainWindow.g.cs
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\App.g.cs
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships_MarkupCompile.cache
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships_MarkupCompile.lref
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\MainWindow.baml
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.g.resources
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.Properties.Resources.resources
+H:\Spudnik\Custom Programs and Scripts\CopyMemberships\CopyMemberships\obj\Debug\CopyMemberships.csproj.GenerateResource.Cache
